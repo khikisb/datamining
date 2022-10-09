@@ -4,11 +4,11 @@ Penambangan Data adalah suatu proses pengerukan atau pengumpulan informasi penti
 
 Proses data mining seringkali menggunakan metode statistika, matematika, hingga memanfaatkan teknologi artificial intelligence.
 
-Nama          : Penambangan Data 
+Nama           : Penambangan Data 
 
-Program Studi : Teknik Informatika
+Program Studi  : Teknik Informatika
 
-Mata Kuliah Wajib
+Mata Kuliah    : Wajib
 
 ```{tableofcontents}
 ```
